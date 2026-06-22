@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./magma-india-to-tossi-banner.png" alt="Magma India activities have moved to TOSSI Foundation" width="100%" />
+  <img src="./magma_india_to_tossi_banner.png" alt="Magma India activities have moved to TOSSI Foundation" width="100%" />
 </p>
 
 # Magma India activities have moved to TOSSI Foundation
